@@ -1,0 +1,51 @@
+
+body {
+    background-image: url("bg.jpg");
+
+}
+
+.navbar a {
+
+    display: inline-block;
+}
+.navbar img {
+    width: 40px; height: 40px;
+
+}
+img {
+    margin-right: 70%;
+    border-radius: 50%;
+}
+p {
+    display: inline;
+    margin: 100px  60% 24px 40%;
+}
+
+.formulaire {
+    display: inline-block;
+    width: 50%;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.paragraph {
+    display: inline-block;
+    width: 45%;
+}
+
+
+a:link {
+    color: rgb(228, 99, 13);
+}
+
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
